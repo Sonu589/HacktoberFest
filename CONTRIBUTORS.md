@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Sonu](https://github.com/Sonu589)
+- Place: Haryana, India
+- Bio: Engineer (CSE)
+- Github: [Sonu589](https://github.com/Sonu589)
